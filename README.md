@@ -1,11 +1,5 @@
-Azusa Colors
+with Colors
 =============
-
-Azusa Colors is a Keynote theme with clean and colorful design.
-
-- <http://sanographix.github.io/azusa-colors/>
-
-Previous version: [Azusa](http://sanographix.github.io/azusa-keynote/)
 
 ### System requirements
 
@@ -14,14 +8,5 @@ Previous version: [Azusa](http://sanographix.github.io/azusa-keynote/)
 
 ## Install
 
-1. Unzip `theme-azusa-colors.kth.zip`
-2. Open `theme-azusa-colors.kth`
-3. Select "Add to theme selector".
-
-## Author
-
-#### @sanographix
-
-* <http://www.sanographix.net/>
-* Twitter: [@sanographix](https://twitter.com/sanographix)
-* GitHub: [sanographix](https://github.com/sanographix)
+1. Open `with-keynote.kth`
+2. Select "Add to theme selector".
