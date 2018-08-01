@@ -10,3 +10,7 @@ with Colors
 
 1. Open `with-keynote.kth`
 2. Select "Add to theme selector".
+
+## Fonts
+
+- [ぼくたちのゴシック２ボールド](https://fontopo.com/?p=98)
